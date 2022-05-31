@@ -1,1 +1,1 @@
-# OneToMny
+# Mappings
